@@ -1,0 +1,9 @@
+img{
+    border-color: blue;
+    background-origin: padding-box;
+    box-shadow:15px ;
+    border-radius: 150px 0px 150px 0px;
+}
+r{
+    background-color: greenyellow;
+}
